@@ -1,4 +1,15 @@
 Welcome to the GitHub Workshop!
-You must be Person 1. Make some changes to this file, like maybe writing a story, telling a joke, writing code... anything, really.
+Yes hello my name is Wyatt Fails and I am editing the person 1 file.
+
+Mr. Chen,
+	I am writing to inform you that I am going to join the git club
+at Virginia Tech if it is the last thing I do in this mortal life. I have
+made it the one thing I will do at this school. All energy that I had for 
+any homework, social events, extracurricular activities, etc. is now focused
+on joining this exclusive club. I will keep you posted via face to face interaction
+on the off chance that I see you again after tonight. 
+
+Good night, and good luck
+Wyatt Fails
 
 
